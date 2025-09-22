@@ -1,4 +1,4 @@
-# SVS-Commerce 👗🛍️
+# SVS-Commerce
 
 **SVS-Commerce** is a **mobile-first, full-stack e-commerce platform** built to showcase fashion, beauty, and lifestyle products.  
 This project demonstrates a modern shopping experience with a focus on **smooth UI, responsive design, and future MERN stack implementation**.
