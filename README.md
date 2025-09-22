@@ -8,7 +8,7 @@ This project demonstrates a modern shopping experience with a focus on **smooth 
 ## 📹 Project Showcase
 
 ### Screenshots
-![Homepage Screenshot](link-to-your-homepage-image)
+![Homepage Screenshot](svs-homePage.jpeg)
 ![Product Page Screenshot](link-to-your-product-page-image)
 ![Cart & Wishlist Screenshot](link-to-your-cart-image)
 
