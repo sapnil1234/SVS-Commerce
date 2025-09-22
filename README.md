@@ -13,7 +13,7 @@ This project demonstrates a modern shopping experience with a focus on **smooth 
 ![Cart & Wishlist Screenshot](link-to-your-cart-image)
 
 ### Demo Video
-[Watch Demo Video](link-to-your-demo-video)
+[Watch Demo Video](DemoVideo.mp4)
 
 ---
 
