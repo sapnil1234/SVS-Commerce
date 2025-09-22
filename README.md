@@ -10,7 +10,7 @@ This project demonstrates a modern shopping experience with a focus on **smooth 
 ### Screenshots
 ![Homepage Screenshot](svs-homePage.jpeg)
 ![Product Page Screenshot](LiveSuggestion-SearchBar.jpeg)
-![Cart & Wishlist Screenshot](link-to-your-cart-image)
+![Cart & Wishlist Screenshot](ProductCategoryPage.jpeg)
 
 ### Demo Video
 [Watch Demo Video](DemoVideo.mp4)
